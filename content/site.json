@@ -1,0 +1,83 @@
+{
+  "whatsapp": "62895331191682",
+  "heroImage": "img/hero.jpg",
+  "socials": [
+    {
+      "type": "tiktok",
+      "url": "https://orbitte.florist"
+    }
+  ],
+  "products": [
+    {
+      "name": "Navy Graduation",
+      "tags": [
+        "wisuda"
+      ],
+      "desc": "Mawar putih, aster, krisan pompom hijau dan boneka wisuda dalam wrapping navy.",
+      "image": "img/navy.jpg"
+    },
+    {
+      "name": "Teddy Blossom",
+      "tags": [
+        "wisuda",
+        "ultah"
+      ],
+      "desc": "Mawar pink, aster putih dan statice ungu, lengkap dengan boneka wisuda.",
+      "image": "img/teddy.jpg"
+    },
+    {
+      "name": "White Elegance",
+      "tags": [
+        "nikah",
+        "anniv"
+      ],
+      "desc": "Mawar putih dan baby's breath, tersedia dari ukuran mini sampai besar.",
+      "image": "img/white.jpg"
+    },
+    {
+      "name": "Blush Pink",
+      "tags": [
+        "ultah"
+      ],
+      "desc": "Mawar pink dan baby's breath dalam wrapping dusty pink yang manis.",
+      "image": "img/blush.jpg"
+    },
+    {
+      "name": "Pink Anniversary",
+      "tags": [
+        "anniv",
+        "ultah"
+      ],
+      "desc": "Lima mawar pink dan aster putih, dengan pita bertuliskan ucapan Anda.",
+      "image": "img/anniv.jpg"
+    },
+    {
+      "name": "Classic White",
+      "tags": [
+        "anniv",
+        "nikah",
+        "duka"
+      ],
+      "desc": "Mawar putih dengan wrapping krem bertepi emas. Bersih, tenang dan elegan.",
+      "image": "img/classic.jpg"
+    },
+    {
+      "name": "Papan Duka Ornamen",
+      "tags": [
+        "papan",
+        "duka"
+      ],
+      "desc": "Papan duka cita berbingkai ornamen perak, nama almarhum dan pengirim sesuai pesanan.",
+      "image": "img/papan1.jpg"
+    },
+    {
+      "name": "Papan Duka Klasik",
+      "tags": [
+        "papan",
+        "duka"
+      ],
+      "desc": "Papan bernuansa hijau dan emas dengan hiasan pita, rapi untuk ucapan dari keluarga atau kantor.",
+      "image": "img/papan2.jpg"
+    }
+  ]
+}
